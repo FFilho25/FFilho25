@@ -1,16 +1,19 @@
-## Hi there 👋
+Olá, eu sou o Francisco Filho 👋
 
-<!--
-**FFilho25/FFilho25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 Do físico ao digital
 
-Here are some ideas to get you started:
+Com uma carreira consolidada no setor de móveis planejados, decidi aplicar minha capacidade analítica e de resolução de problemas no universo da Ciência de Dados. Atualmente, curso o Superior Tecnólogo em Ciência de Dados e Análise de Comportamento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 O que estou aprendendo agora:
+
+Python: Lógica de programação.
+
+Big Data: Fundamentos e infraestrutura de dados.
+
+Segurança e Auditoria de Sistemas: Segurança de Dados e Redes.
+
+Matemática: Álgebra linear.
+
+🚀 Objetivo
+
+Migrar totalmente para a área de dados, focando em Engenharia de Dados ou BI, levando comigo a precisão e a visão de projeto que a marcenaria me ensinou.
